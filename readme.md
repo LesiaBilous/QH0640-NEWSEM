@@ -6,4 +6,9 @@
 
 # Step 02:
 
-## npm install 
+## npm install -y
+
+# Step 03:
+# npm install @vitejs/plugin-react react react-dom
+
+
