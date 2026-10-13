@@ -1,0 +1,23 @@
+{
+  "name": "qh0640-newsem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesiaBilous/QH0640-NEWSEM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LesiaBilous/QH0640-NEWSEM/issues"
+  },
+  "homepage": "https://github.com/LesiaBilous/QH0640-NEWSEM#readme",
+  "dependencies": {
+    "vite": "^8.3.4"
+  }
+}
